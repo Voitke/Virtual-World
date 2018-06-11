@@ -1,7 +1,9 @@
-public abstract class Organism
+public abstract class Organism //what is this shit, i didnt plant it !!!
 {
     public static int nextId = 0;
     
+	public static int bullshit = 4;
+	
     private int age = 0;
     
     private int id;
